@@ -1,0 +1,5 @@
+input=name("اكتب اسمك")
+input=age("اكتب عمرك")
+print("اهلا يا"+name)
+print("بعد 10 سنين هيبقى عمرك "+ +int(age) )
+str(10)
